@@ -12,7 +12,7 @@ path-complete is a [Node.js](http://nodejs.org/) package for command line TAB pa
 
 ## Basic Usage
 
-You can run the extremely simple test case in by executing `node test/test.js` or use the code below to do the same.
+You can run the extremely simple test case by executing `node test/test.js` or use the code below to do the same.
 
 ```javascript
 var pc = require('path-complete');
