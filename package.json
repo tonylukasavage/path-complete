@@ -6,7 +6,9 @@
     "completion",
     "autocomplete"
   ],
-  "version": "0.1.0",
+  "main": "./lib/path-complete.js",
+  "version": "0.1.2",
+  "directories": { "lib": "./lib" },
   "homepage": "https://github.com/tonylukasavage/path-complete",
   "author": {
     "name": "Tony Lukasavage",
@@ -16,11 +18,7 @@
     "type": "git",
     "url": "git@github.com:tonylukasavage/path-complete.git"
   },
-  "main": "lib/path-complete",
-  "dependencies": {
-    "path": "*",
-    "fs": "*"
-  },
+  "dependencies": {},
   "engines": {
     "node": "*"
   }
