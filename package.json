@@ -7,7 +7,7 @@
     "autocomplete"
   ],
   "main": "./lib/path-complete.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "directories": { "lib": "./lib" },
   "homepage": "https://github.com/tonylukasavage/path-complete",
   "author": {
