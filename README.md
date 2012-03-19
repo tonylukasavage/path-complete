@@ -4,7 +4,7 @@ path-complete is a [Node.js](http://nodejs.org/) package for command line TAB pa
 
 ## Video Demonstration
 
-Coming soon...
+[https://vimeo.com/38800422](https://vimeo.com/38800422)
 
 ## Installation
 
