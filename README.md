@@ -16,8 +16,9 @@ You can run the extremely simple test case by executing `node test/test.js` or u
 
 ```javascript
 var pc = require('path-complete');
+process.stdout.write('look for path: ');
 pc.getPathFromStdin(function(path) {
 	console.log('');
-	console.log('path: ' + path);
+    console.log('path: ' + path);
 });
 ```
